@@ -2,8 +2,6 @@
 
 I recently saw [this video by HM Projects](https://www.youtube.com/watch?v=OZarwftUh8w) where he builds a 3D printed motor. I have not been successful in replicating this build so I am compiling my notes here to figure out why my version does not work ([video](./)). When power is connected the motor just shakes it does not rotate as shown in the video. I have tested my ESC with a working BLDC motor and the ESC works fine.
 
-It's worth noting that while HMProjects video is impressive, its quite light on practical build instructions many details need to be interpreted.
-
 [Winding Scheme Calculator](https://www.bavaria-direct.co.za/scheme/calculator/)
 
 <img src="./img/maxresdefault.jpg" width="500"/>
