@@ -1,0 +1,18 @@
+
+Before you star printing the motor make sure to have these things at hand.
+
+1. 5mm diameter metal rod.
+
+2. M5 Die ( to thread the rod )
+
+3. 4 x MR95ZZ bearings (they are 9 x 5 x 3 mm) 
+
+4. 4 M3 brass inserts
+
+5. 4 M3 screws
+
+6. 0.5mm copper wire ( make sure to have to have enough wire, at least 20 m, each coil have 20 turns)
+
+When winding the stator you can use 0.5mm wire with 20 turns so you can try to use thinner wire and use more turns for each coil,
+of course if you want to experiment. but keep in mind that more turns means less current, and less current means less power.
+
